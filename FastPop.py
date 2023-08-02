@@ -107,7 +107,7 @@ def fetchInfo():
     return (fetched.split(":")[1],fetched.split(":")[3],getGJUsers(fetched.split(":")[7])[0],fetched.split(":")[7])
 
 print(" /\_/\                    FastPop")
-print("( . . )            by NumbersTada")
+print("( . . )             by MeowersGMD")
 print(">)-A-(<   Popularity in a second!")
 print("Thanks Sevenworks for helping me!")
 print("---------------------------------")
